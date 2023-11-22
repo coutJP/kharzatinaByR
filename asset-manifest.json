@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kharzatinaByR/static/css/main.19df3f20.css",
+    "main.js": "/kharzatinaByR/static/js/main.5fe10418.js",
+    "static/js/787.e48e4bb1.chunk.js": "/kharzatinaByR/static/js/787.e48e4bb1.chunk.js",
+    "static/media/BoyNeck.png": "/kharzatinaByR/static/media/BoyNeck.a8fb0bdaa3d552e7a0eb.png",
+    "static/media/GirlNeck.png": "/kharzatinaByR/static/media/GirlNeck.ef3fdf9e9739a68c828d.png",
+    "static/media/anklet.png": "/kharzatinaByR/static/media/anklet.31e21926ae126a31799a.png",
+    "static/media/Rings.png": "/kharzatinaByR/static/media/Rings.8c718f09b7ba78fa7c5a.png",
+    "static/media/set.png": "/kharzatinaByR/static/media/set.8b9e0a6342d0b780ad06.png",
+    "static/media/braclet.png": "/kharzatinaByR/static/media/braclet.02b65c7dd974c1acbe3c.png",
+    "static/media/bracletG.png": "/kharzatinaByR/static/media/bracletG.ad0718fdc7dffabd0c06.png",
+    "static/media/Kharzatina christmas.jpeg": "/kharzatinaByR/static/media/Kharzatina christmas.c03a7aa6ff2a7b89eb81.jpeg",
+    "static/media/Untitled.jpeg": "/kharzatinaByR/static/media/Untitled.50c356dc872187a0d5ad.jpeg",
+    "static/media/Untitled (1).jpeg": "/kharzatinaByR/static/media/Untitled (1).7a0b6a2abfcf71623a10.jpeg",
+    "static/media/logo.png": "/kharzatinaByR/static/media/logo.529fec30ae3d4c56ee53.png",
+    "static/media/logo.svg": "/kharzatinaByR/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kharzatinaByR/index.html",
+    "main.19df3f20.css.map": "/kharzatinaByR/static/css/main.19df3f20.css.map",
+    "main.5fe10418.js.map": "/kharzatinaByR/static/js/main.5fe10418.js.map",
+    "787.e48e4bb1.chunk.js.map": "/kharzatinaByR/static/js/787.e48e4bb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19df3f20.css",
+    "static/js/main.5fe10418.js"
+  ]
+}
