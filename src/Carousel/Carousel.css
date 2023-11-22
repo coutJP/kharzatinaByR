@@ -1,0 +1,53 @@
+/* src/components/Carousel.css */
+
+.SliderImg {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+}
+
+.SliderImg::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.carousel-caption h3 {
+  color: #fff;
+}
+
+.carousel-caption p {
+  color: #ccc;
+  margin-bottom: 0;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
+}
+
+.carousel-caption h3,
+.carousel-caption p {
+  color: #fff;
+  margin: 0;
+  padding: 10px;
+}

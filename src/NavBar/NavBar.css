@@ -1,0 +1,38 @@
+/* src/components/Navbar.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  .left h1 {
+    margin: 0;
+  }
+  
+  .right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right p {
+    margin: 0;
+    margin-right: 0.5rem;
+    font-size: 0.9rem;
+    color: #ccc;
+  }
+  
+  .right a {
+    margin-right: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+  
+  .right a:hover {
+    color: #ffd700; /* Change to your preferred hover color */
+  }
+  
