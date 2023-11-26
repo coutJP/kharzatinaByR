@@ -10,7 +10,8 @@ import braceletG from './bracletG.png'
 import set from './set.png'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-
+import hat from './santaHat.png'
+import santa from './santa.png'
 function Cards() {
   const handleInstagramClick = () => {
     window.location.href = 'https://www.instagram.com/kharzatinabyr/';
@@ -19,6 +20,7 @@ function Cards() {
        <Row>
         <Col md={4} sm={12}>    
         <Card style={{ width: '15rem' ,border:'none',margin:'50px', backgroundColor:'#333'}} >
+        {/* <img src={hat} style={{ position: 'absolute', top: 0, left: 0}} /> */}
       <Card.Img variant="top" style={{ height: '14rem',objectFit:'cover' }} src={BoyNeck} />
       <Card.Body style={{ height: '10rem', backgroundColor:'#232121' }}>
         <Card.Title style={{ color:'white'}}>Men's Necklace</Card.Title>
@@ -79,7 +81,7 @@ function Cards() {
       <Card.Body style={{ height: '10rem', backgroundColor:'#232121' }}>
         <Card.Title style={{ color:'white'}}>Anklet</Card.Title>
         <Card.Text style={{ color:'white'}}>
-        For Your Carefree Days
+        For Your Carefree Days.
         </Card.Text>
         <Button style={{background: 'linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)' , border:'none'}} onClick={handleInstagramClick}>Discover More</Button>
       </Card.Body>
@@ -92,7 +94,7 @@ function Cards() {
       <Card.Body style={{ height: '10rem', backgroundColor:'#232121' }}>
         <Card.Title style={{ color:'white'}}>Sets</Card.Title>
         <Card.Text style={{ color:'white'}}>
-            To Customize
+            To Customize.
         </Card.Text>
         <Button style={{background: 'linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)' , border:'none'}} onClick={handleInstagramClick}>Discover More</Button>
       </Card.Body>
